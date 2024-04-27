@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthWasmDemo", "AuthWasmDemo\AuthWasmDemo\AuthWasmDemo.csproj", "{1D32CD47-6DD2-47E6-ACAD-F8BC83A533DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthWasmDemo.Client", "AuthWasmDemo\AuthWasmDemo.Client\AuthWasmDemo.Client.csproj", "{70F2041F-9AE1-420C-B1FB-3B5872AC8EC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D32CD47-6DD2-47E6-ACAD-F8BC83A533DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D32CD47-6DD2-47E6-ACAD-F8BC83A533DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D32CD47-6DD2-47E6-ACAD-F8BC83A533DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D32CD47-6DD2-47E6-ACAD-F8BC83A533DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F2041F-9AE1-420C-B1FB-3B5872AC8EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F2041F-9AE1-420C-B1FB-3B5872AC8EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F2041F-9AE1-420C-B1FB-3B5872AC8EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F2041F-9AE1-420C-B1FB-3B5872AC8EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E2B28D-7C82-4A29-AD67-F4133AF6ED81}
+	EndGlobalSection
+EndGlobal
